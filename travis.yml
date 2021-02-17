@@ -4,7 +4,7 @@ jdk:
 
 addons:
 sonarcloud:
-organization: MegAtonBoom
+organization: Adrian Baba
 token: cb6eb606b93af932e0c83425fe587a2951ad2218
 
 script: 
